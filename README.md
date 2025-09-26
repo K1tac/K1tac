@@ -3,7 +3,7 @@ I like coding in Python, Java, C++, C#, C, and other coding languages.<br>
 I'm actively learning languages and creating repositories as well.
 
 # LINKS
-![Guns.lol](https://guns.lol/K1tac)<br>
+![guns.lol profile](https://guns.lol/K1tac)<br>
 ![ROBLOX Profile](https://roblox.com/users/642600288)<br>
 
 # CONTACT ME HERE
