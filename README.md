@@ -1,5 +1,6 @@
-I enjoy coding in **Python**, **Java**, **C++**, **C#**, **C**, **Lua/Luau**, and many other languages.  
-I'm actively learning and building repositories as I go.
+I enjoy coding in **Python**, **Java**, **C++**, **C#**, **C**, **Lua/Luau**, and many other language or smth
+
+I play guitar and make ROBLOX games in my free time
 
 ---
 
