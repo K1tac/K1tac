@@ -5,7 +5,7 @@ I play guitar and make ROBLOX games in my free time
 ---
 
 ## 🌐 Links
-- [Carrd](k1tac.uwu.ai)  
+- [Carrd](https://k1tac.uwu.ai)  
 - [Roblox Profile](https://roblox.com/users/642600288)
 
 ---
