@@ -1,10 +1,8 @@
-# Hi, I'm K1tac 👋
+# K1tac I am, not Sam. NOT SAM.
 
-Welcome to my GitHub profile! I'm a developer passionate about creating amazing experiences across multiple platforms.
-
-## 🚀 About Me
-- Passionate developer with experience in game development (Roblox) and full-stack development
-- Always learning and exploring new technologies
+## About Me
+ - Experience in game development (Roblox) and full-stack development
+- Learning and exploring new technologies
 - Open to collaboration and contributions
 
 ## 💻 Languages & Technologies
@@ -52,7 +50,3 @@ Welcome to my GitHub profile! I'm a developer passionate about creating amazing 
 ## 🌐 Links
 - [Portfolio](https://k1tac.carrd.co)  
 - [Roblox Profile](https://roblox.com/users/642600288)
-
----
-
-**Feel free to explore my repositories and reach out if you'd like to collaborate!**
