@@ -36,18 +36,6 @@
 
 ---
 
-## ⭐ Star History
-
-<a href="https://www.star-history.com/?repos=K1tac%2FSequoia%2CK1tac%2FOSTemplate%2CK1tac%2FULTRA_INJECTOR&type=date&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=K1tac/Sequoia%2CK1tac/OSTemplate%2CK1tac/ULTRA_INJECTOR&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=K1tac/Sequoia%2CK1tac/OSTemplate%2CK1tac/ULTRA_INJECTOR&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=K1tac/Sequoia%2CK1tac/OSTemplate%2CK1tac/ULTRA_INJECTOR&type=date&legend=top-left" />
- </picture>
-</a>
-
----
-
 ## 🌐 Links
 - [Portfolio](https://k1tac.carrd.co)  
 - [Roblox Profile](https://roblox.com/users/642600288)
