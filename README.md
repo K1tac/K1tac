@@ -1,7 +1,7 @@
 # K1tac I am, not Sam. NOT SAM.
 
 ## About Me
- - Experience in game development (Roblox) and full-stack development
+ - Experience in game development (roblox)
 - Learning and exploring new technologies
 - Open to collaboration and contributions
 
