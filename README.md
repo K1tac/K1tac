@@ -31,5 +31,7 @@
 
 ---
 
-## Links
+## Socials
 - [Roblox Profile](https://roblox.com/users/642600288)
+- [Youtube](https://www.youtube.com/@K1tac)
+- Discord: k1tac
